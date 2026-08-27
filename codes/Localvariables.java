@@ -1,4 +1,4 @@
-class Localvariables{
+ class Localvariables{
     public static void show(){
         int a =10;
         System.out.println("Inside show method,a = "+ a);
